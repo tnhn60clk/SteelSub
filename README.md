@@ -28,3 +28,6 @@ __Kütüphaneyi yüklemek için terminal üzerinden şu komutu kullanabilirsiniz
 - `Listenin tam yolunu girin: subdomains.txt`
 - `Subdomain Bulundu! ---> https://sub1.example.com`
 - `Subdomain Bulundu! ---> https://sub2.example.com`
+
+
+**Can sıkıntısından yaptım yeni başlayanlar falan inceler herhalde afied🫡**

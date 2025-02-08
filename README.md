@@ -15,10 +15,10 @@ __Kütüphaneyi yüklemek için terminal üzerinden şu komutu kullanabilirsiniz
 'pip install requests'
 
 ## Kullanım
--Kodu çalıştırın.
--Test edilecek URL'yi girin.
--Kullanmak istediğiniz protokolü seçin (https:// veya http://).
--Bir dosya yolu girerek subdomain listesine ait dosyayı belirtin. (Her bir subdomain'in tek bir satırda olması gerekir.)
+- Kodu çalıştırın.
+- Test edilecek URL'yi girin.
+- Kullanmak istediğiniz protokolü seçin (https:// veya http://).
+- Bir dosya yolu girerek subdomain listesine ait dosyayı belirtin. (Her bir subdomain'in tek bir satırda olması gerekir.)
 
 
 ## Örnek Çıktı

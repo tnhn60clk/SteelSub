@@ -12,7 +12,7 @@
 - **requests kütüphanesi**
 
 __Kütüphaneyi yüklemek için terminal üzerinden şu komutu kullanabilirsiniz:__
-- 'pip install requests'
+- `pip install requests`
 
 ## Kullanım
 - Kodu çalıştırın.
@@ -22,9 +22,9 @@ __Kütüphaneyi yüklemek için terminal üzerinden şu komutu kullanabilirsiniz
 
 
 ## Örnek Çıktı
-- 'Test edilecek url: example.com'
-- 'Protokol seç:'
-- '1 = https 2 = http (1/2): 1'
-- 'Listenin tam yolunu girin: subdomains.txt'
-- 'Subdomain Bulundu! ---> https://sub1.example.com'
-- 'Subdomain Bulundu! ---> https://sub2.example.com'
+- `Test edilecek url: example.com`
+- `Protokol seç:`
+- `1 = https 2 = http (1/2): 1`
+- `Listenin tam yolunu girin: subdomains.txt`
+- `Subdomain Bulundu! ---> https://sub1.example.com`
+- `Subdomain Bulundu! ---> https://sub2.example.com`
